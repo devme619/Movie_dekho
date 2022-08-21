@@ -19,3 +19,8 @@
         font-size: 6.4vh;
     }
 }
+@media(max-width:300px){
+    .header{
+        font-size: 3vh;
+    }
+}
