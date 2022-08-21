@@ -19,7 +19,7 @@
         font-size: 6.4vh;
     }
 }
-@media(max-width:400px){
+@media(max-width:950px){
     .header{
         font-size: 3vh;
     }
